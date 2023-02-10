@@ -1,0 +1,9 @@
+{
+    "name": "ひとこと検索メーカー",
+    "description": "打った文章を単語ごとに分解して検索してくれる拡張機能です。",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
